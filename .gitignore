@@ -1,3 +1,10 @@
+# Directories
+/build
+/build/.cache
+/build/bootloader-prefix
+/build/bootloader
+/build/esp-idf
+
 # Prerequisites
 *.d
 
@@ -51,7 +58,3 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-
-# Directories
-build/
-build\
