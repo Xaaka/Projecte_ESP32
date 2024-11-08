@@ -3,6 +3,7 @@
  *
  * SPDX-License-Identifier: Apache-2.0
  * VERSIO PROVA AX
+ * 2024 
  */
 
 #include <stdio.h>
@@ -302,4 +303,10 @@ void app_main(void)
     ESP_ERROR_CHECK(example_connect());
 
     mqtt5_app_start();
+    
+   /*Connectar WIFI*/
+   
+   /*Conectar MQTT*/
+   
+   /*Gestionar MQTT*/
 }
